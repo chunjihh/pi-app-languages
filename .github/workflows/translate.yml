@@ -1,0 +1,35 @@
+name: 🌍 아랑's 글로벌 27개국 실시간 동적 자동 번역 로봇
+
+on:
+  push:
+    paths:
+      - 'ko.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📂 저장소 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 🟢 Node.js 환경 세팅
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 의존성 모듈 설치
+        run: |
+          if [ -f "package.json" ]; then
+            npm install
+          fi
+
+      - name: 🤖 translate-bot.js 실시간 가동
+        run: node translate-bot.js
+
+      - name: 💾 번역 완료된 26개국 파일 최종 안착 및 저장
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add *.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: 깃허브 로봇에 의한 26개국 최신 번역본 자동 갱신"
+          git push
