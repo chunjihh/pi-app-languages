@@ -1,0 +1,31 @@
+# 1. 의존성 폴더 및 도커 구동 찌꺼기 제외
+node_modules/
+package-lock.json
+
+# 2. 자동 생성되는 26개국 번역 파일 제외 (오직 ko.json 원본만 올림)
+ar.json
+bn.json
+de.json
+en.json
+es.json
+fa.json
+fr.json
+hi.json
+id.json
+it.json
+ja.json
+ms.json
+nl.json
+pl.json
+pt.json
+ro.json
+ru.json
+sw.json
+th.json
+tl.json
+tr.json
+uk.json
+ur.json
+vi.json
+zh-CN.json
+zh-TW.json
