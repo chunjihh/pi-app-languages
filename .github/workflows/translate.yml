@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add *.json
+          git add -f *.json
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: 깃허브 로봇에 의한 26개국 최신 번역본 자동 갱신"
           git push
