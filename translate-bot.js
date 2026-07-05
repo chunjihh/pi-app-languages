@@ -9,19 +9,31 @@ const targetLanguages = [
     'pl', 'nl', 'tr', 'ro', 'ar', 'fa', 'sw'
 ];
 
-// 2. 순수 웹 엔드포인트 우회 번역 함수
+// ==========================================================================
+// 2. 순수 웹 엔드포인트 우회 번역 함수 (줄바꿈 보존 필터 이식)
+// ==========================================================================
 async function googleTranslateAlternative(text, targetLang) {
     try {
-        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=ko&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
+        if (!text) return '';
+
+        // 🌟 [핵심 필터] 원본 텍스트에 진짜 엔터(\n)가 있다면 구글이 뭉개지 못하도록 [NEWLINE]이라는 특수 표식으로 치환
+        let preservedText = text.replace(/\n/g, '[NEWLINE]');
+
+        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=ko&tl=${targetLang}&dt=t&q=${encodeURIComponent(preservedText)}`;
         const response = await fetch(url);
         const data = await response.json();
         
         if (data && data[0] && data[0][0]) {
-            return data[0][0][0];
+            let translatedText = data[0][0][0];
+
+            // 🌟 [복원 필터] 번역된 결과물에 들어있는 [NEWLINE] 표식을 Nginx와 브라우저가 인식할 수 있는 정식 압축 기호(\\n)로 치환
+            // 구글 번역 과정에서 공백이 섞일 수 있으므로 대소문자 및 공백 방어 정규식 적용
+            return translatedText.replace(/\[\s*NEWLINE\s*\]/gi, '\\n');
         }
         return text;
     } catch (e) {
-        return text; // 에러 시 원본 반환
+        // 에러 시에도 최소한 줄바꿈은 유지되도록 처리
+        return text.replace(/\n/g, '\\n'); 
     }
 }
 
