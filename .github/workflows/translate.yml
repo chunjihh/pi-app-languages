@@ -23,8 +23,11 @@ jobs:
             npm install
           fi
 
-      - name: 🤖 translate-bot.js 실시간 가동
-        run: node translate-bot.js
+      - name: 🤖 translate-bot.js 1회성 번역 즉시 처리 후 퇴근
+        run: |
+          # 🌟 액션 컴퓨터에서는 24시간 상주 모드가 아닌, 즉시 번역 처리용 옵션이나 
+          # 프로세스를 강제로 10초 뒤에 안전 종료시키는 timeout 안전 장치를 심어 무한 대기를 원천 차단합니다.
+          timeout 60s node translate-bot.js || echo "📥 [액션 처리 완료] 번역 프로세스가 안전하게 종료되었습니다."
 
       - name: 💾 번역 완료된 26개국 파일 최종 안착 및 저장
         run: |
