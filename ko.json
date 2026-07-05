@@ -13,6 +13,7 @@
   "btn_delete": "삭제",
   "desc_placeholder": "내용을 입력하세요...",
   "btn_save": "저장",
+  "btn-edit": "수정",
   "btn_back": "목록으로 돌아가기",
   "comment_title_text": "여러분의 댓글로 소통합니다.",
   "comment_placeholder": "댓글을 입력하세요...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "하이!!!!",
   "prod_1_comment_1": "수고하셨습니다!",
   "prod_1_comment_2": "멋져요",
-  "prod_10_comment_0": "신나요~~ 기대됩니다",
+  "prod_10_comment_0": "The first digital currency!!!!!!!!!!!!!!",
   "prod_10_comment_8": "파이테스트~~",
   "prod_10_comment_9": "테스트",
-  "prod_10_comment_10": "하이~~~ Pi Network!"
+  "prod_10_comment_10": "하이~~~ Pi Network!",
+  "prod_10_comment_1": "기대됩니다.디지털사회~~####",
+  "prod_10_desc": "2026년 파이데이를 축하해~^^♡  디지털 화폐로의 웅장한 진행을 지켜보고있어 !!!  The first digital currency!!!!!!  Pi2Day  -----"
 }

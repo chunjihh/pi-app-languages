@@ -13,6 +13,7 @@
   "btn_delete": "usuwać",
   "desc_placeholder": "Proszę podać swoje dane...",
   "btn_save": "ratować",
+  "btn-edit": "korekta",
   "btn_back": "wróć do listy",
   "comment_title_text": "Komunikujemy się poprzez Twoje komentarze.",
   "comment_placeholder": "Proszę wpisać swój komentarz...",
@@ -21,7 +22,7 @@
   "game_score_prefix": "Wynik",
   "game_time_prefix": "Czas",
   "game_init_title": "Owocowy huk!",
-  "game_btn_start": "Rozpoczęcie",
+  "game_btn_start": "Pierwsze kroki",
   "game_btn_next_level": "Rozpocznij następny poziom",
   "game_all_clear": "Wyczyść wszystkie poziomy!",
   "game_btn_current_start": "Rozpocznij bieżący poziom",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "wysoki!!!!",
   "prod_1_comment_1": "Dziękujemy za Twój wysiłek!",
   "prod_1_comment_2": "Jest fajnie",
-  "prod_10_comment_0": "Jestem podekscytowany~~ Nie mogę się doczekać",
+  "prod_10_comment_0": "Pierwsza cyfrowa waluta!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Test ciasta~~",
   "prod_10_comment_9": "test",
-  "prod_10_comment_10": "Cześć~~~ Sieć Pi!"
+  "prod_10_comment_10": "Cześć~~~ Sieć Pi!",
+  "prod_10_comment_1": "Nie mogę się tego doczekać. Społeczeństwo cyfrowe~~####",
+  "prod_10_desc": "Szczęśliwego Dnia Pi 2026~^^♡ Obserwujemy wspaniały postęp w kierunku cyfrowej waluty!!!  Pierwsza cyfrowa waluta!!!!!  Dzień Pi2 -----"
 }

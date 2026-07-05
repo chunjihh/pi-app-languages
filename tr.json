@@ -6,13 +6,14 @@
   "btn_prev": "önce",
   "btn_next": "Sonraki",
   "btn_pay": "Ödeme yap",
-  "btn_like_prefix": "İyi❤️",
+  "btn_like_prefix": "güzel❤️",
   "btn_copy_link": "Bağlantıyı kopyala",
   "btn_upload_media": "Medya yükleme",
   "btn_edit": "düzeltme",
   "btn_delete": "silmek",
   "desc_placeholder": "Lütfen bilgilerinizi giriniz...",
   "btn_save": "kaydetmek",
+  "btn-edit": "düzeltme",
   "btn_back": "listeye dön",
   "comment_title_text": "Yorumlarınız aracılığıyla iletişim kuruyoruz.",
   "comment_placeholder": "Lütfen yorumunuzu giriniz...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "yüksek!!!!",
   "prod_1_comment_1": "Çabanız için teşekkür ederiz!",
   "prod_1_comment_2": "serin",
-  "prod_10_comment_0": "Heyecanlıyım~~ Sabırsızlıkla bekliyorum",
+  "prod_10_comment_0": "İlk dijital para birimi!!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Pasta testi~~",
   "prod_10_comment_9": "test",
-  "prod_10_comment_10": "Merhaba~~~ Pi Ağı!"
+  "prod_10_comment_10": "Merhaba~~~ Pi Ağı!",
+  "prod_10_comment_1": "Bunu sabırsızlıkla bekliyorum. Dijital toplum~~####",
+  "prod_10_desc": "2026 Pi Günü Kutlu Olsun~^^♡ Dijital para birimine doğru muhteşem ilerlemeyi izliyoruz!!!  İlk dijital para birimi!!!!!!  Pi2Day -----"
 }

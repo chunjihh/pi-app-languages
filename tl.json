@@ -13,8 +13,9 @@
   "btn_delete": "tanggalin",
   "desc_placeholder": "Pakilagay ang iyong mga detalye...",
   "btn_save": "iligtas",
+  "btn-edit": "pagwawasto",
   "btn_back": "bumalik sa listahan",
-  "comment_title_text": "Nakikipag-ugnayan kami sa pamamagitan ng iyong mga komento.",
+  "comment_title_text": "Nakikipag-usap kami sa pamamagitan ng iyong mga komento.",
   "comment_placeholder": "Pakilagay ang iyong komento...",
   "btn_submit": "pagpaparehistro",
   "game_level_prefix": "Antas",
@@ -28,7 +29,7 @@
   "game_btn_prev_start": "Simulan ang nakaraang antas",
   "game_btn_first_start": "Simulan ang antas 1",
   "game_over_title": "tapos na ang laro",
-  "game_init_desc": "I-click lamang ang 3 prutas.",
+  "game_init_desc": "Mag-click lamang sa 3 prutas.",
   "game_final_score": "huling puntos",
   "eco_main_title": "Pinakabagong Balita sa Pi Network",
   "eco_sub_title": "Pi blog balita",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "mataas!!!!",
   "prod_1_comment_1": "Salamat sa iyong pagsisikap!",
   "prod_1_comment_2": "Astig naman",
-  "prod_10_comment_0": "Excited na ako~~ Inaabangan ko ito",
+  "prod_10_comment_0": "Ang unang digital currency!!!!!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Pie test~~",
   "prod_10_comment_9": "pagsubok",
-  "prod_10_comment_10": "Kumusta~~~ Pi Network!"
+  "prod_10_comment_10": "Kumusta~~~ Pi Network!",
+  "prod_10_comment_1": "Inaasahan ko ito. Digital society~~####",
+  "prod_10_desc": "Maligayang Araw ng Pi 2026~^^♡ Pinapanood namin ang napakagandang pag-unlad patungo sa digital currency!!!  Ang unang digital currency!!!!!!  Pi2Day -----"
 }

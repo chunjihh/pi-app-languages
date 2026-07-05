@@ -13,6 +13,7 @@
   "btn_delete": "supprimer",
   "desc_placeholder": "Veuillez entrer vos coordonnées...",
   "btn_save": "sauvegarder",
+  "btn-edit": "correction",
   "btn_back": "revenir à la liste",
   "comment_title_text": "Nous communiquons à travers vos commentaires.",
   "comment_placeholder": "Veuillez entrer votre commentaire...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "haut!!!!",
   "prod_1_comment_1": "Merci pour vos efforts!",
   "prod_1_comment_2": "C'est cool",
-  "prod_10_comment_0": "Je suis excité ~~ J'ai hâte d'y être",
+  "prod_10_comment_0": "La première monnaie numérique !!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Test de tarte~~",
   "prod_10_comment_9": "test",
-  "prod_10_comment_10": "Salut ~~~ Réseau Pi !"
+  "prod_10_comment_10": "Salut ~~~ Réseau Pi !",
+  "prod_10_comment_1": "J'ai hâte d'y être. Société numérique~~####",
+  "prod_10_desc": "Joyeux Pi Day 2026~^^♡ Nous observons les magnifiques progrès vers la monnaie numérique !!!  La première monnaie numérique !!!!!  Pi2Jour -----"
 }

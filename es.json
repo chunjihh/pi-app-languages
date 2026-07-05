@@ -13,6 +13,7 @@
   "btn_delete": "borrar",
   "desc_placeholder": "Por favor ingresa tus datos...",
   "btn_save": "ahorrar",
+  "btn-edit": "corrección",
   "btn_back": "volver a la lista",
   "comment_title_text": "Nos comunicamos a través de tus comentarios.",
   "comment_placeholder": "Por favor ingresa tu comentario...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "¡¡¡¡alto!!!!",
   "prod_1_comment_1": "¡Gracias por tu esfuerzo!",
   "prod_1_comment_2": "Es genial",
-  "prod_10_comment_0": "Estoy emocionado~~ Estoy deseando que llegue",
+  "prod_10_comment_0": "La primera moneda digital!!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Prueba de pastel ~~",
   "prod_10_comment_9": "prueba",
-  "prod_10_comment_10": "Hola ~~~ Red Pi!"
+  "prod_10_comment_10": "Hola ~~~ Red Pi!",
+  "prod_10_comment_1": "Estoy deseando que llegue. Sociedad digital ~~####",
+  "prod_10_desc": "Feliz Día Pi 2026~^^♡ ¡¡¡Estamos observando el magnífico progreso hacia la moneda digital!!!  ¡¡¡La primera moneda digital!!!!!!  Pi2Day -----"
 }

@@ -13,6 +13,7 @@
   "btn_delete": "padam",
   "desc_placeholder": "Sila masukkan butiran anda...",
   "btn_save": "jimat",
+  "btn-edit": "pembetulan",
   "btn_back": "kembali ke senarai",
   "comment_title_text": "Kami berkomunikasi melalui komen anda.",
   "comment_placeholder": "Sila masukkan komen anda...",
@@ -27,7 +28,7 @@
   "game_btn_current_start": "Mulakan tahap semasa",
   "game_btn_prev_start": "Mulakan tahap sebelumnya",
   "game_btn_first_start": "Mulakan tahap 1",
-  "game_over_title": "permainan tamat",
+  "game_over_title": "tamat permainan",
   "game_init_desc": "Hanya klik pada 3 buah.",
   "game_final_score": "markah akhir",
   "eco_main_title": "Berita Rangkaian Pi Terkini",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "tinggi!!!!",
   "prod_1_comment_1": "Terima kasih atas usaha anda!",
   "prod_1_comment_2": "Ia adalah sejuk",
-  "prod_10_comment_0": "Saya teruja~~ Saya menantikannya",
+  "prod_10_comment_0": "Mata wang digital pertama!!!!!!!!!!!",
   "prod_10_comment_8": "Ujian pai~~",
   "prod_10_comment_9": "ujian",
-  "prod_10_comment_10": "Hai~~~ Rangkaian Pi!"
+  "prod_10_comment_10": "Hai~~~ Rangkaian Pi!",
+  "prod_10_comment_1": "Saya menantikannya. Masyarakat digital~~####",
+  "prod_10_desc": "Selamat Hari Pi 2026~^^♡ Kami sedang memerhatikan kemajuan hebat ke arah mata wang digital!!!  Mata wang digital pertama!!!!!!  Pi2Day -----"
 }

@@ -13,6 +13,7 @@
   "btn_delete": "刪除",
   "desc_placeholder": "請輸入您的詳細資料...",
   "btn_save": "節省",
+  "btn-edit": "更正",
   "btn_back": "返回列表",
   "comment_title_text": "我們透過您的評論進行溝通。",
   "comment_placeholder": "請輸入您的評論...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "高的！ ！ ！ ！",
   "prod_1_comment_1": "感謝您的努力！",
   "prod_1_comment_2": "這很酷",
-  "prod_10_comment_0": "我很興奮~~我很期待",
+  "prod_10_comment_0": "第一個數位貨幣！ ！ ！ ！ ！ ！ ！ ！ ！ ！ ！ ！",
   "prod_10_comment_8": "餅測試~~",
   "prod_10_comment_9": "測試",
-  "prod_10_comment_10": "嗨~~~Pi網路！"
+  "prod_10_comment_10": "嗨~~~Pi網路！",
+  "prod_10_comment_1": "我很期待。數字社會~~####",
+  "prod_10_desc": "2026 年圓周率日快樂~^^♡ 我們正在見證數位貨幣的巨大進步！ ！ ！  第一個數位貨幣！ ！ ！ ！ ！ ！  Pi2Day-----"
 }

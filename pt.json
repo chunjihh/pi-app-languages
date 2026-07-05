@@ -5,7 +5,7 @@
   "shop_title": "Produtos recomendados",
   "btn_prev": "antes",
   "btn_next": "próximo",
-  "btn_pay": "Efetuar pagamento",
+  "btn_pay": "Efetue o pagamento",
   "btn_like_prefix": "Bom❤️",
   "btn_copy_link": "Copiar link",
   "btn_upload_media": "Carregamento de mídia",
@@ -13,6 +13,7 @@
   "btn_delete": "excluir",
   "desc_placeholder": "Por favor insira seus dados...",
   "btn_save": "salvar",
+  "btn-edit": "correção",
   "btn_back": "retornar à lista",
   "comment_title_text": "Nós nos comunicamos através de seus comentários.",
   "comment_placeholder": "Por favor insira seu comentário...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "alto!!!!",
   "prod_1_comment_1": "Obrigado pelo seu esforço!",
   "prod_1_comment_2": "É legal",
-  "prod_10_comment_0": "Estou animado ~~ Estou ansioso por isso",
+  "prod_10_comment_0": "A primeira moeda digital!!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Teste de torta ~~",
   "prod_10_comment_9": "teste",
-  "prod_10_comment_10": "Olá ~~~ Rede Pi!"
+  "prod_10_comment_10": "Olá ~~~ Rede Pi!",
+  "prod_10_comment_1": "Estou ansioso por isso. Sociedade digital~~####",
+  "prod_10_desc": "Feliz Dia do Pi 2026~^^♡ Estamos observando o magnífico progresso em direção à moeda digital!!!  A primeira moeda digital!!!!!!  Pi2Dia -----"
 }

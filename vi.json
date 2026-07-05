@@ -13,6 +13,7 @@
   "btn_delete": "xóa bỏ",
   "desc_placeholder": "Vui lòng nhập thông tin chi tiết của bạn...",
   "btn_save": "cứu",
+  "btn-edit": "sự sửa chữa",
   "btn_back": "trở lại danh sách",
   "comment_title_text": "Chúng tôi liên lạc thông qua ý kiến ​​​​của bạn.",
   "comment_placeholder": "Hãy nhập bình luận của bạn...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "cao!!!!",
   "prod_1_comment_1": "Cảm ơn sự nỗ lực của bạn!",
   "prod_1_comment_2": "thật tuyệt",
-  "prod_10_comment_0": "Tôi rất phấn khích~~ Tôi rất mong chờ nó",
+  "prod_10_comment_0": "Đồng tiền kỹ thuật số đầu tiên!!!!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Thử bánh ~~",
   "prod_10_comment_9": "Bài kiểm tra",
-  "prod_10_comment_10": "Xin chào ~~~ Mạng Pi!"
+  "prod_10_comment_10": "Xin chào ~~~ Mạng Pi!",
+  "prod_10_comment_1": "Tôi đang mong chờ nó. Xã hội kỹ thuật số~~####",
+  "prod_10_desc": "Chúc mừng Ngày số Pi 2026 ~ ^^♡ Chúng tôi đang theo dõi sự tiến bộ tuyệt vời đối với tiền kỹ thuật số!!!  Đồng tiền kỹ thuật số đầu tiên!!!!!!  Pi2Day -----"
 }

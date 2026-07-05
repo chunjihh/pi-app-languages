@@ -13,6 +13,7 @@
   "btn_delete": "删除",
   "desc_placeholder": "请输入您的详细信息...",
   "btn_save": "节省",
+  "btn-edit": "更正",
   "btn_back": "返回列表",
   "comment_title_text": "我们通过您的评论进行沟通。",
   "comment_placeholder": "请输入您的评论...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "高的！！！！",
   "prod_1_comment_1": "感谢您的努力！",
   "prod_1_comment_2": "这很酷",
-  "prod_10_comment_0": "我很兴奋~~我很期待",
+  "prod_10_comment_0": "第一个数字货币！！！！！！！！！！！！",
   "prod_10_comment_8": "饼测试~~",
   "prod_10_comment_9": "测试",
-  "prod_10_comment_10": "嗨~~~Pi网络！"
+  "prod_10_comment_10": "嗨~~~Pi网络！",
+  "prod_10_comment_1": "我很期待。数字社会~~####",
+  "prod_10_desc": "2026 年圆周率日快乐~^^♡ 我们正在见证数字货币的巨大进步！！！  第一个数字货币！！！！！！  Pi2Day-----"
 }

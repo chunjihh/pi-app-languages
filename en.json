@@ -13,6 +13,7 @@
   "btn_delete": "delete",
   "desc_placeholder": "Please enter your details...",
   "btn_save": "save",
+  "btn-edit": "correction",
   "btn_back": "return to list",
   "comment_title_text": "We communicate through your comments.",
   "comment_placeholder": "Please enter your comment...",
@@ -37,8 +38,10 @@
   "prod_1_comment_0": "high!!!!",
   "prod_1_comment_1": "Thank you for your effort!",
   "prod_1_comment_2": "It's cool",
-  "prod_10_comment_0": "I’m excited~~ I’m looking forward to it",
+  "prod_10_comment_0": "The first digital currency!!!!!!!!!!!!!!!",
   "prod_10_comment_8": "Pie test~~",
   "prod_10_comment_9": "test",
-  "prod_10_comment_10": "Hi~~~ Pi Network!"
+  "prod_10_comment_10": "Hi~~~ Pi Network!",
+  "prod_10_comment_1": "I’m looking forward to it. Digital society~~####",
+  "prod_10_desc": "Happy Pi Day 2026~^^♡ We are watching the magnificent progress toward digital currency!!!  "
 }
